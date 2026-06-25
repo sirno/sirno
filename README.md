@@ -7,12 +7,13 @@ If your team is looking for a versatile engineer who can bridge the gap between 
 
 ## 🛠️ Expertise & Interests
 
-*   **Machine Learning & AI:** Experience working with deep neural networks and optimizing LLM inference for real-world applications.
+*   **Machine Learning & AI:** Experience working with deep neural networks and training models on multi GPU setups using distributed data parallelism.
 *   **Data Pipeline & Orchestration:** Skilled in data flow orchestration to build resilient, scalable pipelines for processing and model deployment.
 *   **Computational Biology & Lab Automation:** Developed tools for viral evolution simulation and robotic liquid handling control.
 *   **Systems & Media Programming:** Experience building abstractions in **Rust** and creating terminal user interfaces.
 *   **Algorithms & Optimization:** Implementing constraint-based optimization methods for efficient community searches.
 *   **DevOps & Tooling:** Experience using virtualization with **Docker**, managing services and building integrations with package managers like **Nix**.
+*   **LLM Evaluation:** I've extensively studied LLM inference with vLLM and evaluation with LLM-as-a-judge.
 
 ## 💻 Featured Projects
 
