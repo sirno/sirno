@@ -1,6 +1,6 @@
 # Hi there, I'm Nicolas Ochsner (@sirno) 👋
 
-I'm a Developer based in Zurich, currently at ETH. My work sits at the intersection of complex systems simulation, machine learning, biology lab automation, and systems programming. 
+I'm a Developer based in Zurich, with a PhD from ETH. My work sits at the intersection of complex systems simulation, machine learning, biology lab automation, and systems programming. 
 
 **🚀 Status: Actively looking for a job!** 
 If your team is looking for a versatile engineer who can bridge the gap between high-level machine learning abstractions and robust systems engineering, let's connect!
